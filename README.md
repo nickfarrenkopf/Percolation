@@ -5,7 +5,7 @@ Percolation is the process of a liquid floowing through a solid filter.
 For a more indepth explanation, consult the internet.
 For a visual explanation, run the program.
 
-For executable jar files, head to
+For executable jar files (Java Runtime Environment needed), head to
 https://drive.google.com/open?id=0B8yloXKNmwBVZ0xxazZuZ2lDQW8
 
 Commit 1 - Bulk of code.
